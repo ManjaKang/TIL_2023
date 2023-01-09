@@ -1,3 +1,5 @@
-#include <iostream>
+#include <stdio.h>
 
-printf('하위')
+int main() {a
+	printf("hi");
+}
